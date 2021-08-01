@@ -1,5 +1,5 @@
 # portfolio-website
 
-Hi guys! This is my personal portfolio-website in making.
+Hi guys! This is my personal portfolio-website (always) in making :)
 
-I am doing this through lesson-two of neogcamp's level-zero.
+Here you can know about me, my tech-stack, my projects & also read the blogs I have written!
